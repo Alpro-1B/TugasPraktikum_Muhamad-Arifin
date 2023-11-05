@@ -18,7 +18,7 @@ int main(){
         for (int k = 1; k <= i; k++){
             cout << "* "; 
         }
-    // membuat baris baru tiap loop agar tinggi segitiga vertikal
+    // membuat baris baru agar segitiga vertikal
     cout << endl;
     }
 
